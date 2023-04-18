@@ -2,8 +2,8 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Rogue Reality',
+    description: 'Rogue Gallery of workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://roguerdev.github.io/kasm-registry/',
     contactUrl: 'https://github.com/roguerdev/kasm-registry',
