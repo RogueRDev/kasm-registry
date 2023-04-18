@@ -6,7 +6,7 @@ const nextConfig = {
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
     listUrl: 'https://roguerdev.github.io/kasm-registry/',
-    contactUrl: 'https://github.com/roguerdev/kasm-registry/',
+    contactUrl: 'https://github.com/roguerdev/kasm-registry',
   },
   reactStrictMode: true,
   swcMinify: true,
