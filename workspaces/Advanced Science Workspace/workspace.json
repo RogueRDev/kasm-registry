@@ -1,22 +1,21 @@
 {
-    "friendly_name": "Advanced Science Workspace",
-    "image_src": "blob:https://roguerdev.github.io/bdca1d60-841e-4d99-8393-9e04e90577e5",
-    "description": "A Data science Workspace",
-    "name": "kasmweb/core-ubuntu-focal:1.13.0",
-    "cores": 2,
-    "memory": 2768,
-    "gpu_count": 0,
-    "cpu_allocation_method": "Inherit",
-    "docker_registry": "https://index.docker.io/v1/",
-    "categories": [
-      "Desktop",
-      "Development"
-    ],
-    "require_gpu": false,
-    "enabled": true,
-    "image_type": "Container",
-    "architecture": [
-      "amd64"
-    ]
-  }
-  
+  "friendly_name": "Advanced Science Workspace",
+  "image_src": "advanced-science-workspace.png",
+  "description": "A Data science Workspace",
+  "name": "kasmweb/core-ubuntu-focal:1.13.0",
+  "cores": 2,
+  "memory": 2768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Desktop",
+    "Development"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "architecture": [
+    "amd64"
+  ]
+}
